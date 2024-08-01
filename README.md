@@ -1,8 +1,7 @@
 ﻿# food_menu_classifie
  ```
 TEAM
-6410110039  น.ส. กุลวดี สุทธจิตร
-6410110194  นาย ธนกฤต ฉิมพลีปักษ์
-6410110748  นาย อารีฟีน หมาดสตูล
+Kulwadee    Suttajit    6410110039
+Thanakrit   Chimplipak  6410110194
+Arifin      Mardsatun   6410110748
 ```
-test
