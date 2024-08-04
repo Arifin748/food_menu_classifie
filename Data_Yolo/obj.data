@@ -1,4 +1,4 @@
-classes = 14
+classes = 13
 train = data/train.txt
 names = data/obj.names
 backup = backup/
